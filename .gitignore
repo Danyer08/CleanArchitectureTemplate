@@ -5,6 +5,7 @@
 
 # dotenv files
 .env
+.netcoredbg_hist
 
 # User-specific files
 *.rsuser
